@@ -1,0 +1,46 @@
+#cup_1 {
+   background-color: grey;
+   margin-bottom: 20px;
+}
+#flower_1 {
+    background-color: grey;
+    margin-bottom: 20px;
+}
+#watch_1 {
+   background-color: grey;
+   margin-bottom: 20px;
+}
+#hat_1 {
+    background-color: grey;
+    margin-bottom: 20px;
+}
+#scooter_1 {
+  background-color: grey;
+  margin-bottom: 20px;
+}
+
+#cup {
+    height: 400px;
+    width: 400;
+ }
+ #flower {
+     height: 400px;
+     width: 400px;
+ }
+ #watch {
+    height: 400px;
+    width: 400px;
+ }
+ #hat {
+   height: 400px;
+   width: 400px;
+ }
+ #scooter {
+   height: 400px;
+   width: 400px;
+ }
+
+#heading {
+    font-size: 30px;
+    
+}
